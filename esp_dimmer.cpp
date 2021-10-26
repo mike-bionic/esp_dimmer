@@ -9,6 +9,8 @@ IPAddress gateway(192, 168, 1, 1);
 IPAddress subnet(255, 255, 255, 0);
 IPAddress dns(8, 8, 8, 8);
 
+
+// change these values according your aruino
 const int ledPin = 10;
 int brightness1 = 45;
 int brightness2 = 80;
